@@ -1,0 +1,3 @@
+C:/Users/paulo/CLionProjects/12EstructuraDeDatos/tutorados/cmake-build-debug/CMakeFiles/tutorados.dir
+C:/Users/paulo/CLionProjects/12EstructuraDeDatos/tutorados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paulo/CLionProjects/12EstructuraDeDatos/tutorados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
